@@ -1,4 +1,4 @@
-![Vídeo sin título ‐ Hecho con Clipchamp](https://github.com/ElAdagioDeJP/ElAdagioDeJP/assets/129967733/15681892-3c66-4424-95c8-afbc9a3ce347)
+
 
 Hello everyone! My name is Juan, but I am known in the virtual world as ElAdagiodeJP. I am currently studying computer engineering and aspire to become a developer in the future. My passion for learning and studying is insatiable, and I always seek to expand my knowledge and wisdom. The pursuit of eudaimonia, that is, human fulfillment and flourishing, also occupies a central place in my life. I firmly believe that personal and spiritual growth are essential to achieve happiness and well-being.
 
