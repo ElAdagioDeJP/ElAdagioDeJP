@@ -1,5 +1,16 @@
-<h1>Hi!, I`m Juan Vargas</h1>
+<h1 align=center>Hi!👋, I'm Juan Vargas </h1>
 <img src="https://pbs.twimg.com/media/GOxUPoqWgAEV2dY?format=jpg&name=large">
+<h2>🐴About Me:</h2>
+<h4></h4>
+<div aling=center>
+  <h2><b>💻Tech Stack</b></h2>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,flet,git&perline=14" />
+  </a>
+</p>
+
 
 
 Hello everyone! My name is Juan, but I am known in the virtual world as ElAdagiodeJP. I am currently studying computer engineering and aspire to become a developer in the future. My passion for learning and studying is insatiable, and I always seek to expand my knowledge and wisdom. The pursuit of eudaimonia, that is, human fulfillment and flourishing, also occupies a central place in my life. I firmly believe that personal and spiritual growth are essential to achieve happiness and well-being.
