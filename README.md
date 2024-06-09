@@ -5,6 +5,7 @@
   tenacious and stoic in my approach.</h4>
   <div aling=center>
   <h2 align=center>💻Tech Stack</h2>
+
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,3 +17,12 @@
     <img src="https://img.shields.io/badge/juan.vargasr432%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
   </a>
 </div>
+
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
+
+<p align="center">
+<a href="https://github.com/ElAdagioDeJP">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElAdagioDeJP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElAdagioDeJP&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
