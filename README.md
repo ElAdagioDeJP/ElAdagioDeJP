@@ -9,14 +9,21 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,flutter,julia,linux,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,django,spring,mysql,python,java,flutter,julia,linux,git&perline=11" />
   </a>
 </p>
+<h2 align=center>📲Contact Me</h2>
+<div align="center" style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/juan-pablo-vargas-rivero-3b1233257">
+    <img <img src="https://skillicons.dev/icons?i=linkedin&perline=1"/>
+  </a>
+</div>
 <div align="center">
   <a href="mailto:juan.vargasr432@gmail.com">
     <img src="https://img.shields.io/badge/juan.vargasr432%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
   </a>
 </div>
+
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 
