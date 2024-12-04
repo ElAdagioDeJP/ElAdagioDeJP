@@ -1,5 +1,7 @@
 <img src="https://pbs.twimg.com/media/GOxUPoqWgAEV2dY?format=jpg&name=large">
-<h1 align=center>Hi!👋, I'm Juan Vargas </h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=35&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Vargas" alt="Typing SVG" /></a>
+</div>
 <h2 align=center>Computer Engineering student. I have a deep desire to learn and push my limits day by day,<br> 
   in order to discover what I am capable of. I consider myself an organized person,<br> 
   tenacious and stoic in my approach.</h2>
