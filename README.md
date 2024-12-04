@@ -15,12 +15,7 @@
 <h2 align=center>📲Contact Me</h2>
 <div align="center" style="display: inline-block;">
   <a href="https://www.linkedin.com/in/juan-pablo-vargas-rivero-3b1233257">
-    <img <img src="https://skillicons.dev/icons?i=linkedin&perline=1"/>
-  </a>
-</div>
-<div align="center">
-  <a href="mailto:juan.vargasr432@gmail.com">
-    <img src="https://img.shields.io/badge/juan.vargasr432%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
 </div>
 
