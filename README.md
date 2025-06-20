@@ -11,7 +11,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,django,spring,mysql,python,java,cs,flutter,julia,linux,git,unity&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,django,flask,spring,mysql,postgres,python,java,cs,flutter,julia,linux,kali,git,unity,figma&perline=5" />
   </a>
 </p>
 <h2 align=center>📲Contact Me</h2>
